@@ -1,6 +1,6 @@
 # 👟 Nike Store Flutter App  
 
-A **Nike-inspired eCommerce app** built with **Flutter** 🚀  
+A **Nike-inspired eCommerce app** using **Flutter** 🚀  
 Browse sneakers, add them to your cart 🛒, and checkout 💳 with a sleek UI inspired by Nike’s design language.  
 
 ---
