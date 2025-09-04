@@ -64,7 +64,7 @@ lib/
 ## 📸 Screenshots  
 | 👋 Welcome | 🏠 Home | 📂 Drawer | 🛒 Cart | ℹ️ About |  
 |------------|--------|-----------|---------|-------------|
-| <img src="screenshots/homepage.png" width="200"/> | <img src="screenshots/shoppage.png" width="200"/> | <img src="screenshots/drawer.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/about.png" width="200"/> |  
+| <img src="screenshots/homepage.png" width="150"/> | <img src="screenshots/shoppage.png" width="150"/> | <img src="screenshots/drawer.png" width="150"/> | <img src="screenshots/cart.png" width="150"/> | <img src="screenshots/about.png" width="150"/> |  
 
 
 ---
