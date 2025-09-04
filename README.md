@@ -50,13 +50,6 @@ flutter run
 
 ---
 
-## 📸 Screenshots  
-| 👋 Welcome | 🏠 Home | 📂 Drawer | 🛒 Cart | ℹ️ About |  
-|------------|--------|-----------|---------|-------------|
-| <img src="screenshots/homepage.png" width="200"/> | <img src="screenshots/shoppage.png" width="200"/> | <img src="screenshots/drawer.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/about.png" width="200"/> |  
-
----
-
 ###📂 Folder Structure
 ```
 lib/
@@ -65,3 +58,21 @@ lib/
 │── pages/         # App pages (Home, Cart, Checkout, About)
 │── main.dart      # Entry point
 ```
+
+---
+
+## 📸 Screenshots  
+| 👋 Welcome | 🏠 Home | 📂 Drawer | 🛒 Cart | ℹ️ About |  
+|------------|--------|-----------|---------|-------------|
+| <img src="screenshots/homepage.png" width="200"/> | <img src="screenshots/shoppage.png" width="200"/> | <img src="screenshots/drawer.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/about.png" width="200"/> |  
+
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to **fork the repo** and open a **pull request**.
+
+---
+
+Made with ❤️ using **Flutter**
