@@ -31,7 +31,7 @@ class Cart extends ChangeNotifier{
         Shoe(
             name: "Air Jordan 3", 
             price: "359", 
-            description: "The iconic AJ3 'Black Cat' returns. Drawn from MJ's famed moniker, the black and Dark Charcoal design mixes leather, nubuck and polished patent-leather accents for a luxe and true-to-form finish.", 
+            description: "The iconic AJ3 'Black Cat' returns. Drawn from MJ's famed moniker.", 
             imagePath: "lib/images/AirJordanBlackCat.png",
         )
     ];
