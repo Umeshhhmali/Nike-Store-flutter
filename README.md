@@ -16,14 +16,6 @@ Browse sneakers, add them to your cart 🛒, and checkout 💳 with a sleek UI i
 
 ---
 
-## 📸 Screenshots  
-| 🏠 Home | 🛒 Cart | 💳 Checkout | ℹ️ About |  
-|--------|--------|------------|---------|  
-| ![Home](screenshots/homepage.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) | ![About](screenshots/about.png) |  
-
-
----
-
 ## 🛠️ Tech Stack  
 - **Flutter** 💙 (Cross-platform framework)  
 - **Dart** 🐦 (Programming language)  
@@ -37,7 +29,9 @@ Browse sneakers, add them to your cart 🛒, and checkout 💳 with a sleek UI i
 ### Prerequisites  
 - Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
 - Install [Dart](https://dart.dev/get-dart)  
-- Set up an emulator or connect a device  
+- Set up an emulator or connect a device
+
+---
 
 ### Installation  
 ```bash
@@ -53,6 +47,13 @@ flutter pub get
 # Run the app
 flutter run  
 ```
+
+---
+
+## 📸 Screenshots  
+| 👋 Welcome | 🏠 Home | 📂 Drawer | 🛒 Cart | ℹ️ About |  
+|------------|--------|-----------|---------|-------------|
+| <img src="screenshots/homepage.png" width="200"/> | <img src="screenshots/shoppage.png" width="200"/> | <img src="screenshots/drawer.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/about.png" width="200"/> |  
 
 ---
 
