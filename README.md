@@ -9,7 +9,7 @@ Browse sneakers, add them to your cart 🛒, and checkout 💳 with a sleek UI i
 ✅ Modern Nike-inspired UI  
 ✅ Browse sneakers (Shop Page)  
 ✅ Add to Cart & Remove from Cart  
-✅ Cart Page with quantity & pricing  
+✅ Cart Page with pricing & delete option 
 ✅ Checkout Page with total calculation  
 ✅ Smooth navigation with Provider state management  
 ✅ About Page with app details  
